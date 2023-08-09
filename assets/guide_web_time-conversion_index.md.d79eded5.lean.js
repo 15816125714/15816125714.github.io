@@ -1,5 +1,5 @@
-import{_ as n,c as a,d as e,w as c,r as p,o as t,a as s,b as l}from"./app.fdc0feba.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/web/time-conversion/index.md"}'),r={name:"guide/web/time-conversion/index.md"},F=s("div",{class:"language-vue"},[s("button",{class:"copy"}),s("span",{class:"lang"},"vue"),s("pre",null,[s("code",null,[s("span",{class:"line"},[s("span",{style:{color:"#89DDFF"}},"<"),s("span",{style:{color:"#F07178"}},"template"),s("span",{style:{color:"#89DDFF"}},">")]),l(`
-`),s("span",{class:"line"},[s("span",{style:{color:"#676E95"}},"<!-- <ClientOnly> -->")]),l(`
+import{_ as n,c as a,d as e,w as c,r as p,o as t,a as s,b as l}from"./app.98107073.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/web/time-conversion/index.md"}'),r={name:"guide/web/time-conversion/index.md"},F=s("div",{class:"language-vue"},[s("button",{class:"copy"}),s("span",{class:"lang"},"vue"),s("pre",null,[s("code",null,[s("span",{class:"line"},[s("span",{style:{color:"#89DDFF"}},"<"),s("span",{style:{color:"#F07178"}},"template"),s("span",{style:{color:"#89DDFF"}},">")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#89DDFF"}},"<"),s("span",{style:{color:"#FFCB6B"}},"ClientOnly"),s("span",{style:{color:"#89DDFF"}},">")]),l(`
 `),s("span",{class:"line"},[s("span",{style:{color:"#A6ACCD"}},"  "),s("span",{style:{color:"#676E95"}},"<!-- {{ configs }} -->")]),l(`
 `),s("span",{class:"line"},[s("span",{style:{color:"#A6ACCD"}},"  "),s("span",{style:{color:"#89DDFF"}},"<"),s("span",{style:{color:"#FFCB6B"}},"ItemGroup")]),l(`
 `),s("span",{class:"line"},[s("span",{style:{color:"#89DDFF"}},"    "),s("span",{style:{color:"#C792EA"}},"v-for"),s("span",{style:{color:"#89DDFF"}},"="),s("span",{style:{color:"#89DDFF"}},'"'),s("span",{style:{color:"#89DDFF"}},"("),s("span",{style:{color:"#A6ACCD"}},"item"),s("span",{style:{color:"#89DDFF"}},", "),s("span",{style:{color:"#A6ACCD"}},"index"),s("span",{style:{color:"#89DDFF"}},") in "),s("span",{style:{color:"#A6ACCD"}},"configs"),s("span",{style:{color:"#89DDFF"}},'"')]),l(`
@@ -34,7 +34,7 @@ import{_ as n,c as a,d as e,w as c,r as p,o as t,a as s,b as l}from"./app.fdc0fe
 `),s("span",{class:"line"},[s("span",{style:{color:"#676E95"}},"      {{ result }}")]),l(`
 `),s("span",{class:"line"},[s("span",{style:{color:"#676E95"}},"    </el-form-item>")]),l(`
 `),s("span",{class:"line"},[s("span",{style:{color:"#676E95"}},"  </el-form> -->")]),l(`
-`),s("span",{class:"line"},[s("span",{style:{color:"#676E95"}},"<!-- </ClientOnly> -->")]),l(`
+`),s("span",{class:"line"},[s("span",{style:{color:"#89DDFF"}},"</"),s("span",{style:{color:"#FFCB6B"}},"ClientOnly"),s("span",{style:{color:"#89DDFF"}},">")]),l(`
 `),s("span",{class:"line"},[s("span",{style:{color:"#89DDFF"}},"</"),s("span",{style:{color:"#F07178"}},"template"),s("span",{style:{color:"#89DDFF"}},">")]),l(`
 `),s("span",{class:"line"}),l(`
 `),s("span",{class:"line"},[s("span",{style:{color:"#89DDFF"}},"<"),s("span",{style:{color:"#F07178"}},"script"),s("span",{style:{color:"#A6ACCD"}}," "),s("span",{style:{color:"#C792EA"}},"setup"),s("span",{style:{color:"#89DDFF"}},">")]),l(`
