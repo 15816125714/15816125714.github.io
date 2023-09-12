@@ -1,0 +1,1 @@
+import{_ as t,S as o,c as s,d as n,o as a,r}from"./app.3a30d68f.js";const c={components:{SkillList:o}},u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"me/index.md"}');function i(l,p,_,d,m,f){const e=r("SkillList");return a(),s("div",null,[n(e)])}const x=t(c,[["render",i]]);export{u as __pageData,x as default};
